@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 43fde95ab14e1a340b269f5c5e75b52e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7UP_1
+    second: {fileID: 2100000, guid: 15c053f80f24331469e3f7e7716f4480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7UP_2
+    second: {fileID: 2100000, guid: d76f6d071d2c58340a2ace6a4d73e184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Always_mtl
+    second: {fileID: 2100000, guid: c1f610f07c4c63f478c2e35297a42ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyCream_mtl
+    second: {fileID: 2100000, guid: 3c925ff768c19994091b4ef758583cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyMilk_mtll
+    second: {fileID: 2100000, guid: de0a54a3666834b47acd5d6a2e3e6d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyOil_mtl
+    second: {fileID: 2100000, guid: 4b7c84deb173c83428f2299a276b24b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyPowder_mtl
+    second: {fileID: 2100000, guid: 46402ada0d6cc124096b38288dd1f545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyShampoo_mtl
+    second: {fileID: 2100000, guid: 9850e8e3ad334e748be5cf63ff80e669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BabyWipes_mtl
+    second: {fileID: 2100000, guid: 09218aff04c8b2941a204723abf47fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BountyBox_mtl
+    second: {fileID: 2100000, guid: 3fea699704a517e429c3d089aa89b7bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CadburyBox_mtl
+    second: {fileID: 2100000, guid: 06f5b996348232344aaa2a39d340e9a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CashCounter_mtll
+    second: {fileID: 2100000, guid: a768c98063c1cb24ba78f9d9196b1315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_mtl
+    second: {fileID: 2100000, guid: 04976fe8457089946b5352cc36751955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cheetos_mtll
+    second: {fileID: 2100000, guid: 6683a1f1eef8c084fb4c6d7971b63f5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChestFreezer_mtl
+    second: {fileID: 2100000, guid: 865edfb7525c6c54d91be2d254c58811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CocaCola_1
+    second: {fileID: 2100000, guid: c194be9d8f77b164d91ad457bc5cff5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CocaCola_2
+    second: {fileID: 2100000, guid: 95a80fa9a36e2c648b1a5fc3dc9139f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CocaZero_1
+    second: {fileID: 2100000, guid: fe53fba53ad38c3438e2e71f04a2ae14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CocaZero_2
+    second: {fileID: 2100000, guid: 0d06aecb392a3db43b694eb817cf231e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cocopops_mtl
+    second: {fileID: 2100000, guid: 79c93f6bd120a8844b229ec0db2f8aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CornFlakes_mtl
+    second: {fileID: 2100000, guid: aeed7f2b08d323449be1c06929647843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DisplayCooler_mtl
+    second: {fileID: 2100000, guid: dd1f4073ccc429244b911311db28f3aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doritos_mtll
+    second: {fileID: 2100000, guid: a4113fd65aa5a8340aea2195b287a6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fanta_1
+    second: {fileID: 2100000, guid: 671ac409ff636734681c0184280cd5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fanta_2
+    second: {fileID: 2100000, guid: cf93a99109c524a4fac6cbd628e4ddfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floors_mtl
+    second: {fileID: 2100000, guid: ec7b2452d6a5a5f4aa0e3e0693939c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontBuilding_mtl
+    second: {fileID: 2100000, guid: aff57c2a062541a46af23cb2a3fdb877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrootLoops_mtl
+    second: {fileID: 2100000, guid: 4e6aa03c263771d469ac0c0d91b0c6a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frosted_mtl
+    second: {fileID: 2100000, guid: a8616c1d94c069f478e2e591a540e92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrozenFood_mtll
+    second: {fileID: 2100000, guid: b6785103f7e38fe4aa84f0b86888b5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrozenFries_mtll
+    second: {fileID: 2100000, guid: 1fd78339ae41bae41b9ee1c219865d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_mtl
+    second: {fileID: 2100000, guid: 285cdb6d8abddc645b7f554982a7ddf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairConditioner_mtl
+    second: {fileID: 2100000, guid: f14a88be204502d4c9d31bf357f0fc93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HerbalShampoo1_mtl
+    second: {fileID: 2100000, guid: d40d4b5000e6e1c49b5bf59f02bfe7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IcecreamFreezer_mtl
+    second: {fileID: 2100000, guid: d190eb8512bc7364da43b2f05226c7e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox1_mtll
+    second: {fileID: 2100000, guid: 91829106911999e46b10faa609d65498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox2_mtll
+    second: {fileID: 2100000, guid: 75d3d695fa1462448b087d0414f9f427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox3_mtll
+    second: {fileID: 2100000, guid: eb07694d13f849c469e2cf2bec52e5f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KitKatBox_mtl
+    second: {fileID: 2100000, guid: 0033b90f105129943a2f18c0c6944623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lays_mtll
+    second: {fileID: 2100000, guid: b8fa3cf8077e23f46bd23c710279e8ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_mtl
+    second: {fileID: 2100000, guid: fcc1913cf25cd5a41a7ed227d51b43ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LoackerBox_mtl
+    second: {fileID: 2100000, guid: f2720c93227de054e89a76076b89b9d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loreal01_mtl
+    second: {fileID: 2100000, guid: ca206cd546193044ab208a79ba0121b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loreal02_mtl
+    second: {fileID: 2100000, guid: 9e8fa2ea6c8b2604385b685e4bc8ae72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuxSoap_mtl
+    second: {fileID: 2100000, guid: 0646b6430119b1344a8c29e65c5cfa6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MMsBox_mtl
+    second: {fileID: 2100000, guid: 9efe2a948c6c5dc4180d2425c3a46a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MangoIcecream_mtl
+    second: {fileID: 2100000, guid: bae84d8261519fb48acddfd978b9c44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarsBox_mtl
+    second: {fileID: 2100000, guid: 0482c390b47ed2440a5c9a4f0b518b88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MilkJerrycan_mtll
+    second: {fileID: 2100000, guid: a240fcb8b04e13040a468291c27f13b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirinda_1
+    second: {fileID: 2100000, guid: 253a74a1d9c7bfe46819aa2f211adfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirinda_2
+    second: {fileID: 2100000, guid: 80a7d809552998b4e8b62d03e4a07377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoistureWash_mtl
+    second: {fileID: 2100000, guid: 1cc55d18a4f9c7a4a8c34bb27af69d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nido_mtll
+    second: {fileID: 2100000, guid: 00af934d9e8da0a4bb91797949d3f52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaBodyWash01_mtl
+    second: {fileID: 2100000, guid: 2d031e24f93256e4f824193b4b9a6a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaBodyWash02_mtl
+    second: {fileID: 2100000, guid: ba398b7ea4febe142b845067d77dc0f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaCream001
+    second: {fileID: 2100000, guid: 7125db9040595c640b6929433c7e84dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaCream002
+    second: {fileID: 2100000, guid: 97e8224e3c0f977479334b7a001dd195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaCreme_mtl
+    second: {fileID: 2100000, guid: 1d0df72c47b8dfa4291527ebf4d66aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaDeodorant1_mtl
+    second: {fileID: 2100000, guid: 6545d374a25d93f4889933638b8bc68f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NiveaSpray2_mtl
+    second: {fileID: 2100000, guid: c664b54b1d7b4174da80505e1b6aac27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OnionRings_mtll
+    second: {fileID: 2100000, guid: 7046e52279b4dc94d83fd0c1e2ce934f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PampersWipes_mtl
+    second: {fileID: 2100000, guid: e18087d3a57f2ae4ba742d4f8366cf38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pampers_mtl
+    second: {fileID: 2100000, guid: bfb7528e813315d41bdad97172748d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panteneconditioner_mtl
+    second: {fileID: 2100000, guid: 8cbe6a2436ae18f4d9242cbb3560b87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panteneshampoo_mtl
+    second: {fileID: 2100000, guid: 00e9a298988f5d343a9e0029cfdca9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PepsiDiet_1
+    second: {fileID: 2100000, guid: 86bf4d40b66124e4ea171acd9e04bc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PepsiDiet_2
+    second: {fileID: 2100000, guid: 92c3c7cdb5de86b4abb0930c9832ecb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pepsi_1
+    second: {fileID: 2100000, guid: 59db0700a26ac414896e01230717ea1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pepsi_2
+    second: {fileID: 2100000, guid: 75c48847ec7885344b436c6ff2d21511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PotatoChips_mtll
+    second: {fileID: 2100000, guid: 1993ef32e6c79a94988e5a268c85e8ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pudding_mtll
+    second: {fileID: 2100000, guid: cbe17e4532f2f7d4aadcd3c02f12f059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RetailSystem_mtll
+    second: {fileID: 2100000, guid: 03a6ebbca3f126d4ca51b2d51e7cb6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rice_mtl
+    second: {fileID: 2100000, guid: 6773c3386115e5742a63f6967f1c9908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecurityCam01_mtl
+    second: {fileID: 2100000, guid: f45f2505bfecc8f44b7c56f367c8a4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecurityCam04_mtl
+    second: {fileID: 2100000, guid: 74ae5903a53345c48b4d20c70616a06a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelves_mtll
+    second: {fileID: 2100000, guid: bd48be38ad5febf48a71430df8b8e7d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoppingCart_mtll
+    second: {fileID: 2100000, guid: 22123a76b058e9b4d8e60bda4e6943b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmokeDetector_mtl
+    second: {fileID: 2100000, guid: 7e78634ad8a3cd14d905280d9c5038fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SnickersBox_mtl
+    second: {fileID: 2100000, guid: fb031b69017755a4ea67b1326cdbf78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sprite_1
+    second: {fileID: 2100000, guid: 7ebbfa1a1fd1e214fbf971a90bf0bb94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sprite_2
+    second: {fileID: 2100000, guid: c754049eae390354db0ac087f09324ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stool_mtl
+    second: {fileID: 2100000, guid: 4e7c3b5aa1c1d1c4f9c1b88c8b28c423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrawberryIcecream_mtl
+    second: {fileID: 2100000, guid: 837ef4beb4b8ad54bb27bb588fe9b2bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrawberryYogurt_mtll
+    second: {fileID: 2100000, guid: 5236cc78f27e07047999a4a0becf46f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toblerone01_mtl
+    second: {fileID: 2100000, guid: 6e1e74c7672df2c4b84ac742c3c43a41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toblerone02_mtl
+    second: {fileID: 2100000, guid: 189836675abb13247acac7118a3cb4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toblerone03_mtl
+    second: {fileID: 2100000, guid: c870c04f78047e04c88711b825c262be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwixBox_mtl
+    second: {fileID: 2100000, guid: fb8d590158a8b7b4e86e20cd3aa50d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VanillaIcecream_mtl
+    second: {fileID: 2100000, guid: 1641b4f654f07524c986ccdfc50c4c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_mtl
+    second: {fileID: 2100000, guid: faf06acd43d71ae44be5648094909a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogurt_mtll
+    second: {fileID: 2100000, guid: fac9524cf2b13004a92312589550786c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7UP01_Diffuse
+    second: {fileID: 2800000, guid: 6f06ff4d495f8a947a0df5e5c91b74bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7UP02_Diffuse
+    second: {fileID: 2800000, guid: 717e5dbc0ebe1ad43b1da0e9cf522c92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Always_Diffuse
+    second: {fileID: 2800000, guid: 7b27ba268791abd44aeecf0602901dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyCream_Diffuse
+    second: {fileID: 2800000, guid: 4a1917fe5ae4abc46a6fcee722addbda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyMilk_Diffuse
+    second: {fileID: 2800000, guid: 2bcc9e6a2b1392647a0db9389470080c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyOil_Diffuse
+    second: {fileID: 2800000, guid: c4fb852cff67cab41904d7d36a7e39b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyPowder_Diffuse
+    second: {fileID: 2800000, guid: 38d47c8c493c8e241ab9f4519a558a26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyShampoo_Diffuse
+    second: {fileID: 2800000, guid: ab2be6e935d43fa4488de9cf99a6e988, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BabyWipes_Diffuse
+    second: {fileID: 2800000, guid: b610e4c55c259ee4eaa7a16812634cd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BountyBox_Diffuse
+    second: {fileID: 2800000, guid: eca09a151a02da544a904d39d74c03c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CadburyBox_Diffuse
+    second: {fileID: 2800000, guid: df281bd1f3b1e4846a110e000b439747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CashCounter_Diffuse
+    second: {fileID: 2800000, guid: 2581233192ee5774bbbd16af07cc7608, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Diffuse
+    second: {fileID: 2800000, guid: 0e3476c988e1f1349918ee55585672bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cheetos_Diffuse
+    second: {fileID: 2800000, guid: 0bc9fd8f63dd4914dab3a20f9ea31e2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ChestFreezer_Diffuse
+    second: {fileID: 2800000, guid: 7038374fc5829e048b87f0e8e377c9df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CocaCola01_Diffuse
+    second: {fileID: 2800000, guid: dcbfbc95d5b305240bffa2c461414ecf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CocaCola02_Diffuse
+    second: {fileID: 2800000, guid: 2f11d790573f03c4c8acb705fb356712, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CocaZero01_Diffuse
+    second: {fileID: 2800000, guid: 37157aedd8e33fb4390f39ce97ca06b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CocaZero02_Diffuse
+    second: {fileID: 2800000, guid: 12bdf1294fd016f439fc865cede10790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CocopopsCereal_Diffuse
+    second: {fileID: 2800000, guid: e7e33a78c7f4dd749a59db2d06c96e51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CornFlakes_Diffuse
+    second: {fileID: 2800000, guid: c3178da329d17d6499a9ad8492ab83b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DisplayCooler_Diffuse
+    second: {fileID: 2800000, guid: 1d2733330e894f54cb7a067ef3ca7501, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Doritos_Diffuse
+    second: {fileID: 2800000, guid: 3f6c5241f0c879c44a0054be4abeeaaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanta01_Diffuse
+    second: {fileID: 2800000, guid: cfefccbdbe60fd64ab03381f787e9b60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanta02_Diffuse
+    second: {fileID: 2800000, guid: 5da8b2a3318893345acabf4a16474dea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floors_Diffuse
+    second: {fileID: 2800000, guid: 284d6f5cb9cb3ea4b8a900c130b7af73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrontBuilding_Diffuse
+    second: {fileID: 2800000, guid: 20175052e15885c4f9c21d5f34774286, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrootLoops_Diffuse
+    second: {fileID: 2800000, guid: f189ab0c9c20e3e4f90be9d9bd20b593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrostedCereal_Diffuse
+    second: {fileID: 2800000, guid: aca63094c6065b744bf8584941f7e9d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrozenFood_Diffuse
+    second: {fileID: 2800000, guid: b692ab0dc4386454e9727993a2b94e78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrozenFries_Diffuse
+    second: {fileID: 2800000, guid: a2ea13013cf13734b88975f17f054812, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Glass_Diffuse
+    second: {fileID: 2800000, guid: ff23f0cc039fc0f4eb6568b986cf7db1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HairConditioner_Diffuse
+    second: {fileID: 2800000, guid: c7d4ddd1237f9cb4e94497e2659d5203, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HerbalShampoo_Diffuse
+    second: {fileID: 2800000, guid: 79dfb34f6705625478a7bf90cdc46a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IcecreamFreezer_Diffuse
+    second: {fileID: 2800000, guid: d7f77edeb3d1c994f961d242a2f3cae0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox1_Diffuse
+    second: {fileID: 2800000, guid: 8df1a893e043208428a8cf684127233c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox2_Diffuse
+    second: {fileID: 2800000, guid: 37e1a3a7db0fc474ca517d38f3d5fc82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JuiceBox3_Diffuse
+    second: {fileID: 2800000, guid: e51778b8948a90244a8f741e35a69689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KitKatBox_Diffuse
+    second: {fileID: 2800000, guid: b34b02937fa986b408d124f4071a813a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lays_Diffuse
+    second: {fileID: 2800000, guid: 32c5a3c132598b04a8771b57808c6c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LoackerBox_Diffuse
+    second: {fileID: 2800000, guid: ed7a75d72765095469949b9739422d47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LorealLotion01_Diffuse
+    second: {fileID: 2800000, guid: bb0460d423fddc74887687e869dcef4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LorealLotion02_Diffuse
+    second: {fileID: 2800000, guid: 8505ebf808897aa4d92fca55e0e9cd2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LuxSoap_Diffuse
+    second: {fileID: 2800000, guid: ace6f9ec0aa86154ba0698c5d9a9f4d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MMSBox_Diffuse
+    second: {fileID: 2800000, guid: 83cf5ec4823f4dc4693d02ae3834b284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MangoIcecream_Diffuse
+    second: {fileID: 2800000, guid: 5b2b9970ba003bd40a3a102a5a9f34c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MarsBox_Diffuse
+    second: {fileID: 2800000, guid: be44e3711d8933c41a3450b9aad3fcda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MilkJerrycan_Diffuse
+    second: {fileID: 2800000, guid: 05ed017111504f446b78d04eb6fe7576, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirinda01_Diffuse
+    second: {fileID: 2800000, guid: 733e5e9990a8b3140a32b70183b8d46b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirinda02_Diffuse
+    second: {fileID: 2800000, guid: 51ed6985c9c52844280ddce70a9f891c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MoistureWash_Diffuse
+    second: {fileID: 2800000, guid: 4e7d52a06fc4af24694c53069bd09c1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nido_Diffuse
+    second: {fileID: 2800000, guid: 15cd531bf54ba7240827d7619629f82d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaBodyWash02_Diffuse
+    second: {fileID: 2800000, guid: 5b2ac863df002cf42adbd0f7bddadd0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaBodyWash_Diffuse
+    second: {fileID: 2800000, guid: 8ee5c643b687bb3449d7518261f93512, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaCream001_Diffuse
+    second: {fileID: 2800000, guid: 211865d715c705e4a8fa4e18ae091cf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaCream002_Diffuse
+    second: {fileID: 2800000, guid: f62125d5df5becc42a207e6288b1cb0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaCreme_Diffuse
+    second: {fileID: 2800000, guid: 4d968e0e15ce93a4485fccb051916da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaDeodorant1_Diffuse
+    second: {fileID: 2800000, guid: 0ba3d3ca779753f40a0c18c0341d55d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NiveaSpray2_Diffuse
+    second: {fileID: 2800000, guid: 646ba7a126f4c3d43bcbff8a7649dd6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnionRings_Diffuse
+    second: {fileID: 2800000, guid: abf94c8201453ad419d6d4612914b404, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PampersWipes_Diffuse
+    second: {fileID: 2800000, guid: bb8459bb6c129c64bb13c7c727795abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pampers_Diffuse
+    second: {fileID: 2800000, guid: cff67b93d4830ce4ca90e7edae1af4e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Panteneconditioner_Diffuse
+    second: {fileID: 2800000, guid: a8693ab42d7837d479e5f218ba3e6a17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Panteneshampoo_Diffuse
+    second: {fileID: 2800000, guid: 5d340a712b980064fa699f70b203ba37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pepsi01_Diffuse
+    second: {fileID: 2800000, guid: 8b4972d4ba3620a4c834677aa5c72035, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pepsi02_Diffuse
+    second: {fileID: 2800000, guid: 881501e62bb2d8347b468bc91d7e9551, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PepsiDiet01_Diffuse
+    second: {fileID: 2800000, guid: 18c706400e8b7bf4c89c37493973ef6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PepsiDiet02_Diffuse
+    second: {fileID: 2800000, guid: f3832ab1745f26c40b897a4a3f64c8b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PotatoChips_Diffuse
+    second: {fileID: 2800000, guid: 8c199919b0667ce41b05384cbae93bf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pudding_Diffuse
+    second: {fileID: 2800000, guid: 1566bdfe5de5c0842ac158f237277f47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Refrigerator02_Diffuse
+    second: {fileID: 2800000, guid: b84947d8c0592ef4bb0b21d179d48d1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Refrigerator_Diffuse
+    second: {fileID: 2800000, guid: 5162d70648ae5fa40ab5e5e1453d40a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RetailSystem_Diffuse
+    second: {fileID: 2800000, guid: 37d40703687c01f49b663e1b5e54d27f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RiceCereal_Diffuse
+    second: {fileID: 2800000, guid: 9ed0813115c2bd14596a78fb62a493f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SecurityCamera01_Diffuse
+    second: {fileID: 2800000, guid: 3f6a7f6999631004b91133dd3a66eb12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SecurityCamera04_Diffuse
+    second: {fileID: 2800000, guid: 69042e30712fd974c9cdbbb118452caa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shelves_Diffuse
+    second: {fileID: 2800000, guid: febf5ca2f5fe64f49a642fd6137acdc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ShoppingCart_Diffuse
+    second: {fileID: 2800000, guid: afb1c31ca03dd7d4ba8ffe7710bc410b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SmokeDetector_Diffuse
+    second: {fileID: 2800000, guid: 064c8b3e41c844c46829ccbbd59005c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SnickersBox_Diffuse
+    second: {fileID: 2800000, guid: 9eb0c0d7a816c524ca66c244d3b4b4c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sprite01_Diffuse
+    second: {fileID: 2800000, guid: 8d3d117e5f28f46468829f55db139a97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sprite02_Diffuse
+    second: {fileID: 2800000, guid: f6174ad7619ec1f48ac784190e786912, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stool_Diffuse
+    second: {fileID: 2800000, guid: 1271be69775885245a4a5f2576ce1fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StrawberryIcecream_Diffuse
+    second: {fileID: 2800000, guid: b1e752b12b9b52b4e991baa70095c468, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StrawberryYogurt_Diffuse
+    second: {fileID: 2800000, guid: 3ec6f5594996a0943b4dcb7e6022db3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Toblerone01_Diffuse
+    second: {fileID: 2800000, guid: 6d0e63d3174f13346bff326978429f2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Toblerone02_Diffuse
+    second: {fileID: 2800000, guid: eee85999e7123b44bab774444ee61f81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Toblerone03_Diffuse
+    second: {fileID: 2800000, guid: 857ec740727a8db4e80c90000f32b321, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TwixBox_Diffuse
+    second: {fileID: 2800000, guid: dadadc8d61afb6b4fb8b920a7cdd80ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VanillaIcecream_Diffuse
+    second: {fileID: 2800000, guid: c62b97adc06d7d647bf704bc0b81a8a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls_Diffuse
+    second: {fileID: 2800000, guid: 8ca45494ee0853149b03c67884177d6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Yogurt_Diffuse
+    second: {fileID: 2800000, guid: 5624cca8a9119fa43b3ce80d83f4905b, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
