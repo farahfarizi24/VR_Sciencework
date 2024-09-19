@@ -54,6 +54,16 @@ public class DataSaving : MonoBehaviour
         sw.Close();
     }
 
+    public void UpdateFinalData(string FirstAnswer, string SecondAnswer)
+    {
+        sw = File.AppendText(saveFile);
+        sw.Write(FirstAnswer + ";");
+        sw.Write(SecondAnswer + ";"); 
+        getTime();
+        gameData.checkOutTime = theTime;
+        sw.Write(gameData.checkOutTime + ";");
+        sw.Close();
+    }
 
 
     public void readFile()

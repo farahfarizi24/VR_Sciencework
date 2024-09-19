@@ -162,6 +162,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -221,6 +225,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TinyTeddy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -502,6 +510,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -639,6 +655,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1048,9 +1072,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -1184,6 +1216,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -1239,6 +1275,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CornFlakes (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1404,6 +1444,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -1463,6 +1507,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: FruityBites (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1668,6 +1716,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -1727,6 +1779,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1932,6 +1988,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -1992,6 +2052,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2042,6 +2106,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -2101,6 +2169,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CocoPops (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2282,6 +2354,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -2341,6 +2417,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TheNoNastiesProject (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2959,6 +3039,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3563,6 +3651,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -3623,6 +3715,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FruityBites (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3672,6 +3768,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -3731,6 +3831,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4078,6 +4182,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -4137,6 +4245,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: SultanaBran (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4212,6 +4324,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4230,6 +4350,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -4290,6 +4414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FruityBites (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4300,6 +4428,100 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
   m_PrefabInstance: {fileID: 221980814}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &222698071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1944921235}
+    m_Modifications:
+    - target: {fileID: 2735507903457453634, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.946
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.17832229
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -121.264
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453638, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 135c631c93e83e942b81a851bab28deb, type: 2}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Name
+      value: Weeties (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+--- !u!4 &222698072 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+  m_PrefabInstance: {fileID: 222698071}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &224865369
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4308,9 +4530,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 224865371}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -4372,6 +4602,11 @@ PrefabInstance:
 --- !u!4 &224865370 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+  m_PrefabInstance: {fileID: 224865369}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &224865371 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
   m_PrefabInstance: {fileID: 224865369}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &229367388
@@ -6280,6 +6515,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -6339,6 +6578,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6505,6 +6748,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -6565,6 +6812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceBubbles (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6614,6 +6865,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -6674,6 +6929,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6723,6 +6982,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -6782,6 +7045,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TheNoNastiesProject (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6863,6 +7130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -6919,6 +7190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CornFlakes (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6946,7 +7221,7 @@ GameObject:
   - component: {fileID: 275008152}
   m_Layer: 0
   m_Name: WeetBix (9)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7087,8 +7362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &275008154
 BoxCollider:
@@ -7146,6 +7421,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -7206,6 +7485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7255,6 +7538,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -7314,6 +7601,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CocoPops (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7701,6 +7992,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -7760,6 +8055,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8031,6 +8330,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -8091,6 +8394,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NutriGrain (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8109,6 +8416,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -8168,6 +8479,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8300,6 +8615,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8439,6 +8762,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -8498,6 +8825,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8609,6 +8940,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -8669,6 +9004,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8687,6 +9026,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -8746,6 +9089,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: RiceBubbles
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9060,6 +9407,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -9119,6 +9470,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: SultanaBran (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9330,6 +9685,10 @@ PrefabInstance:
     - target: {fileID: 6673917322149197375, guid: 1fd9e08ceb9f8aa45a5ee92573ec02ad, type: 3}
       propertyPath: m_Name
       value: Mirror (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673917322149197375, guid: 1fd9e08ceb9f8aa45a5ee92573ec02ad, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9674,6 +10033,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -9729,6 +10092,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CornFlakes (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9841,6 +10208,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -9901,6 +10272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9919,6 +10294,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -9978,6 +10357,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10437,9 +10820,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -10542,6 +10933,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -10601,6 +10996,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10746,6 +11145,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -10801,6 +11204,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CornFlakes (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11005,6 +11412,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -11065,6 +11476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CocoPops (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11083,6 +11498,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -11142,6 +11561,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11273,6 +11696,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11300,7 +11731,7 @@ GameObject:
   - component: {fileID: 525625411}
   m_Layer: 0
   m_Name: WeetBix (6)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11441,8 +11872,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &525625413
 BoxCollider:
@@ -11750,6 +12181,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11855,6 +12294,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -11914,6 +12357,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12124,6 +12571,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -12183,6 +12634,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TheNoNastiesProject (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12374,6 +12829,100 @@ CapsuleCollider:
   m_Height: 0.4030525
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &613777447
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1944921235}
+    m_Modifications:
+    - target: {fileID: 2735507903457453634, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.037
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.033
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.35414276
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -121.264
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453638, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a5fb44db001b1af4a8c2096e6b5ff1d3, type: 2}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_Name
+      value: FruityBites (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+--- !u!4 &613777448 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+  m_PrefabInstance: {fileID: 613777447}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &614910164
 GameObject:
   m_ObjectHideFlags: 0
@@ -12782,6 +13331,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -12841,6 +13394,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Milo (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13984,6 +14541,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -14044,6 +14605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceBubbles (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14062,6 +14627,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -14122,6 +14691,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SultanaBran (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14140,6 +14713,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -14199,6 +14776,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14416,6 +14997,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -14475,6 +15060,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15031,6 +15620,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -15091,6 +15684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NutriGrain (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15109,9 +15706,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -47082,6 +47687,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47250,6 +47863,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -47310,6 +47927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Nesquick (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47361,6 +47982,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -47421,6 +48046,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CocoPops (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47439,6 +48068,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -47498,6 +48131,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: FruityBites (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47640,6 +48277,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -47699,6 +48340,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47835,6 +48480,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -47894,6 +48543,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -48063,6 +48716,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -48144,6 +48805,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -48203,6 +48868,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -48941,6 +49610,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -49000,6 +49673,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -49106,6 +49783,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49402,6 +50087,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -49461,6 +50150,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CocoPops
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -49703,6 +50396,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -49763,6 +50460,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Nesquick
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49781,6 +50482,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -49840,6 +50545,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50033,6 +50742,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -50092,6 +50805,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: RiceBubbles (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50298,6 +51015,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -50357,6 +51078,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Milo (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50438,6 +51163,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -50497,6 +51226,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TheNoNastiesProject (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50732,6 +51465,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 515500601000658178, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
   m_PrefabInstance: {fileID: 994690678}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &994690680 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3497245797197154978, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
+  m_PrefabInstance: {fileID: 994690678}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e49fafc7370434c9a456308055a873, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &998846958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50740,6 +51484,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -50795,6 +51543,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CornFlakes (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50934,6 +51686,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -50993,6 +51749,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51068,6 +51828,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -51582,6 +52350,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -51641,6 +52413,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Milo (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51847,6 +52623,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -51906,6 +52686,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52050,6 +52834,48 @@ Transform:
   - {fileID: 1763852908}
   m_Father: {fileID: 1628601404}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1069821307 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c1502a258cda6d4aacad4d3769471d6, type: 3}
+  m_PrefabInstance: {fileID: 1897344787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1069821311
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069821307}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 23.537817, y: 10.329889, z: 7.208404}
+  m_Center: {x: 1.6500093, y: 4.5857773, z: 3.6041923}
+--- !u!114 &1069821312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069821307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c1d98b8d485e642a379ce98dd1220b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataManager: {fileID: 813777021}
+  answerIndex: 0
+  firstAnswer: 
+  secondAnswer: 
 --- !u!1 &1071685974
 GameObject:
   m_ObjectHideFlags: 0
@@ -52091,6 +52917,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -52150,6 +52980,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52432,6 +53266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Supermarket
       objectReference: {fileID: 0}
+    - target: {fileID: 5193049821425369998, guid: 54a65a4b597c4a0419483675911d9a20, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5193049821425369999, guid: 54a65a4b597c4a0419483675911d9a20, type: 3}
       propertyPath: m_LocalScale.z
       value: 2.7782574
@@ -52513,6 +53351,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -52572,6 +53414,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52661,6 +53507,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -52720,6 +53570,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Milo (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53196,9 +54050,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -53407,6 +54269,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -53463,6 +54329,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53481,6 +54351,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -53540,6 +54414,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53608,7 +54486,7 @@ GameObject:
   - component: {fileID: 1140591060}
   m_Layer: 0
   m_Name: WeetBix (5)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53749,8 +54627,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1140591062
 BoxCollider:
@@ -53927,6 +54805,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -53986,6 +54868,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: FruityBites
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54099,6 +54985,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -54159,6 +55049,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Milo (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54208,6 +55102,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -54268,6 +55166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weeties (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54286,6 +55188,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -54346,6 +55252,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheNoNastiesProject (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54364,6 +55274,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -54423,6 +55337,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54541,6 +55459,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -54600,6 +55522,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55495,6 +56421,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -55554,6 +56484,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Milo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55696,6 +56630,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -55756,6 +56694,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Milo (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -55774,9 +56716,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -55935,6 +56885,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56207,9 +57165,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -56281,6 +57247,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -56341,6 +57311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Milo (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -56359,6 +57333,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -56418,6 +57396,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: FruityBites (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56582,6 +57564,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -56641,6 +57627,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56759,6 +57749,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -56818,6 +57812,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: SultanaBran (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56903,6 +57901,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -56963,6 +57965,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FruityBites (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57022,7 +58028,7 @@ GameObject:
   - component: {fileID: 1373195074}
   m_Layer: 0
   m_Name: WeetBix (1)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57163,8 +58169,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1373195076
 BoxCollider:
@@ -57284,6 +58290,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -57344,6 +58354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TinyTeddy (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57362,6 +58376,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -57421,6 +58439,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -57559,6 +58581,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -57614,6 +58640,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CornFlakes (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -57933,6 +58963,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -57993,6 +59027,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TinyTeddy (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58011,6 +59049,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -58070,6 +59112,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58477,6 +59523,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -58536,6 +59586,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CocoPops (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58610,6 +59664,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -58669,6 +59727,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58798,6 +59860,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -58857,6 +59923,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59024,6 +60094,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -59083,6 +60157,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59189,6 +60267,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cheerios
       objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765221, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59238,6 +60324,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -59297,6 +60387,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: FruityBites (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59845,6 +60939,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -59905,6 +61003,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weeties (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59932,7 +61034,7 @@ GameObject:
   - component: {fileID: 1578238298}
   m_Layer: 0
   m_Name: WeetBix (8)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60073,8 +61175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1578238300
 BoxCollider:
@@ -60132,6 +61234,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -60191,6 +61297,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: RiceBubbles (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -60330,6 +61440,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -60390,6 +61504,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClusterPuffs (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60408,6 +61526,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -60467,6 +61589,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: SultanaBran (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -60583,7 +61709,7 @@ GameObject:
   - component: {fileID: 1604317971}
   m_Layer: 0
   m_Name: WeetBix (11)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60724,8 +61850,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1604317973
 BoxCollider:
@@ -60847,6 +61973,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -60906,6 +62036,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61019,6 +62153,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -61078,6 +62216,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61160,6 +62302,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -61219,6 +62365,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61480,6 +62630,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -61540,6 +62694,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TinyTeddy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61567,7 +62725,7 @@ GameObject:
   - component: {fileID: 1666948399}
   m_Layer: 0
   m_Name: WeetBix (3)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61708,8 +62866,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1666948401
 BoxCollider:
@@ -61889,6 +63047,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -61948,6 +63110,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -62117,6 +63283,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62264,6 +63438,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -62323,6 +63501,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: NutriGrain (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -62521,9 +63703,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Name
       value: FrootLoops (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945205, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_LocalScale.x
@@ -62662,6 +63852,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -62718,6 +63912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CornFlakes (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62736,6 +63934,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -62795,6 +63997,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: SultanaBran (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -62876,6 +64082,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -62936,6 +64146,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TinyTeddy (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62954,6 +64168,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -63013,6 +64231,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: BrightStart (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -63088,6 +64310,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63448,7 +64678,7 @@ GameObject:
   - component: {fileID: 1825564960}
   m_Layer: 0
   m_Name: WeetBix (7)
-  m_TagString: Untagged
+  m_TagString: Cereal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63589,8 +64819,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   safeZone: {fileID: 0}
-  trolleyController: {fileID: 0}
-  isCereal: 0
+  trolleyController: {fileID: 994690680}
+  isCereal: 1
   itemName: 
 --- !u!65 &1825564962
 BoxCollider:
@@ -63734,6 +64964,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -63794,6 +65028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CocoPops (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63812,6 +65050,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -63872,6 +65114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TinyTeddy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63921,6 +65167,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -63980,6 +65230,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -64246,6 +65500,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -64305,6 +65563,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TinyTeddy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -64505,6 +65767,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -64565,6 +65831,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheNoNastiesProject (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64583,6 +65853,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -64642,6 +65916,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TheNoNastiesProject
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66192,12 +67470,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0c1502a258cda6d4aacad4d3769471d6, type: 3}
       propertyPath: m_Name
-      value: grocery checking
+      value: Checkout
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c1502a258cda6d4aacad4d3769471d6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1069821311}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0c1502a258cda6d4aacad4d3769471d6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1069821312}
   m_SourcePrefab: {fileID: 100100000, guid: 0c1502a258cda6d4aacad4d3769471d6, type: 3}
 --- !u!1 &1898216041
 GameObject:
@@ -66446,6 +67730,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -66506,6 +67794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CocoPops (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -66555,6 +67847,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -66614,6 +67910,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Nesquick (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66739,6 +68039,7 @@ Transform:
   - {fileID: 61235895}
   - {fileID: 194314809}
   - {fileID: 838208960}
+  - {fileID: 613777448}
   - {fileID: 1369174294}
   - {fileID: 1533704759}
   - {fileID: 1310623994}
@@ -66796,6 +68097,7 @@ Transform:
   - {fileID: 1133847700}
   - {fileID: 1644266725}
   - {fileID: 568950422}
+  - {fileID: 222698072}
   - {fileID: 1981818801}
   - {fileID: 1182595391}
   - {fileID: 379382093}
@@ -67498,6 +68800,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -67558,6 +68864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClusterPuffs (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -67576,6 +68886,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -67635,6 +68949,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: Weeties (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -67859,6 +69177,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrunchyNut (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940148, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68002,6 +69328,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68061,6 +69391,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: RiceBubbles (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68299,6 +69633,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68359,6 +69697,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SultanaBran (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68377,6 +69719,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68436,6 +69782,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68525,6 +69875,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68585,6 +69939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68640,6 +69998,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68699,6 +70061,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: ClusterPuffs (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68835,6 +70201,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -68895,6 +70265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CiniMinis (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68944,6 +70318,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -69003,6 +70381,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: RiceBubbles (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69276,6 +70658,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -69336,6 +70722,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheNoNastiesProject (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69354,6 +70744,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -69414,6 +70808,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RiceBubbles (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69432,6 +70830,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -69491,6 +70893,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: CiniMinis (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -69611,6 +71017,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1944921235}
     m_Modifications:
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 2735507903457453636, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -69670,6 +71080,10 @@ PrefabInstance:
     - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Name
       value: TinyTeddy
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453645, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: m_TagString
+      value: Cereal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
