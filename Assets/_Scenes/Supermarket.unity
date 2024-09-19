@@ -49886,7 +49886,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &935207081
 Transform:
   m_ObjectHideFlags: 0
@@ -55676,7 +55676,7 @@ MonoBehaviour:
     ikTarget: {fileID: 263471526}
     trackingPositionOffset: {x: 0, y: 0, z: 0}
     trackingRotationOffset: {x: 0, y: -117.06, z: -63.1}
-  headBodyPositionOffset: {x: 0, y: -1.12, z: 0.07}
+  headBodyPositionOffset: {x: 0, y: -1.12, z: -0.03}
   headBodyYawOffset: 0
 --- !u!114 &1223500929
 MonoBehaviour:
