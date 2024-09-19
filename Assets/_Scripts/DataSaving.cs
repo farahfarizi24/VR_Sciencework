@@ -34,13 +34,19 @@ public class DataSaving : MonoBehaviour
         saveFile = Application.persistentDataPath + "/"+userID+"gamedata.csv";
         Debug.Log("File is saved at:" + saveFile);
     }
-    public void UpdateStartingData()
+    public void UpdateStartingData(int uid)
     {
         if (!File.Exists(saveFile))
         {
+            gameData.ParticipantID = uid;
+            theDate = System.DateTime.Now.ToString("MM/dd/yyyy");
+
+            saveFile = Application.persistentDataPath + "/" + uid + "gamedata.csv";
+            Debug.Log("File is saved at:" + saveFile);
             sw = File.AppendText(saveFile);
+           sw.Write(gameData.ParticipantID+";");
             gameData.Date = theDate;
-            sw.Write(gameData.Date);
+            sw.Write(gameData.Date+";");
             sw.Close();
         }
         sw = File.AppendText(saveFile);
@@ -68,7 +74,7 @@ public class DataSaving : MonoBehaviour
     {
         theTime = System.DateTime.Now.ToString("hh:mm:ss");
     }
-    public void OnStartSaveFile()
+    public void OnStartSaveFile(string uid)
     {
         gameData.Date = theDate;
         string CurrentDate = JsonUtility.ToJson(gameData.Date);

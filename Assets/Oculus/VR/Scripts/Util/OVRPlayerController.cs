@@ -149,7 +149,7 @@ public class OVRPlayerController : MonoBehaviour
     public bool RotationEitherThumbstick = false;
 
     protected CharacterController Controller = null;
-    protected OVRCameraRig CameraRig = null;
+    public OVRCameraRig CameraRig = null;
 
     private float MoveScale = 1.0f;
     private Vector3 MoveThrottle = Vector3.zero;
