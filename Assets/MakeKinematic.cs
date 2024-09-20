@@ -1,3 +1,4 @@
+using Oculus.Interaction;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,7 +10,7 @@ public class MakeKinematic : MonoBehaviour
     public bool isCereal;
     public string itemName;
     private bool inTrolley = false;
-
+    public GameObject SaveDataObject;
     private Rigidbody rb;
 
     private Vector3 startPos;
@@ -58,6 +59,8 @@ public class MakeKinematic : MonoBehaviour
             }
             this.inTrolley = false;
         }
+        SaveDataObject.GetComponent<DataSaving>().OnCerealGrabbed(itemName);
+
         rb.isKinematic = false;
         rb.constraints = RigidbodyConstraints.None;
 
@@ -89,9 +92,12 @@ public class MakeKinematic : MonoBehaviour
                 }
             }
         }
-       // transform.position = startPos;
-       // transform.rotation = startRot;
-       // rb.constraints = RigidbodyConstraints.FreezeAll;
+        // transform.position = startPos;
+        // transform.rotation = startRot;
+        // rb.constraints = RigidbodyConstraints.FreezeAll;
+        SaveDataObject.GetComponent<DataSaving>().OnCerealLetGo(itemName);
+
+       
         rb.useGravity = true;
        // rb.isKinematic = true;
     }

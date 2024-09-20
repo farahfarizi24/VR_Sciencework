@@ -271,6 +271,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -1100,6 +1104,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -1408,6 +1416,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -1675,6 +1687,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -1983,6 +1999,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -2597,6 +2617,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -2781,6 +2805,80 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
   m_PrefabInstance: {fileID: 224865369}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &229297543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1198865468}
+    m_Modifications:
+    - target: {fileID: 91537098676791826, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: touch
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 91537098676791827, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: button
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.198
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5338724162569043653, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: m_Name
+      value: RobotHand (L) (OVR)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5561102889477851724, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+      propertyPath: follow
+      value: 
+      objectReference: {fileID: 1699017833}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+--- !u!4 &229297544 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2477909347754098088, guid: a1e1e0eca6b438a478eee4ecd95e63fe, type: 3}
+  m_PrefabInstance: {fileID: 229297543}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &231337972
 GameObject:
   m_ObjectHideFlags: 0
@@ -2840,7 +2938,7 @@ Cloth:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231337972}
-  m_Enabled: 1
+  m_Enabled: 0
   m_StretchingStiffness: 1
   m_BendingStiffness: 0
   m_UseTethers: 1
@@ -4434,6 +4532,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -4767,6 +4869,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -5000,6 +5106,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -5213,6 +5323,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -5422,6 +5536,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -5658,6 +5776,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -5900,6 +6022,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -6121,8 +6247,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.81
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: _trackingOriginType
@@ -6162,7 +6296,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114814064252544740, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6170,6 +6304,18 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1223500927}
+    - targetCorrespondingSourceObject: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 493926501}
+    - targetCorrespondingSourceObject: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 229297544}
+    - targetCorrespondingSourceObject: {fileID: 4188412984752900, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1169805485}
+    - targetCorrespondingSourceObject: {fileID: 4471613377008970, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1487857448}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       insertIndex: -1
@@ -6328,6 +6474,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -6607,6 +6757,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -6798,6 +6952,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -7019,6 +7177,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -7260,6 +7422,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -7770,6 +7936,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -7971,6 +8141,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -8198,7 +8372,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &394015071
 Transform:
   m_ObjectHideFlags: 0
@@ -8386,6 +8560,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -8607,6 +8785,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -8837,6 +9019,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -8987,6 +9173,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6673917322149197375, guid: 1fd9e08ceb9f8aa45a5ee92573ec02ad, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673917322777208821, guid: 1fd9e08ceb9f8aa45a5ee92573ec02ad, type: 3}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -9298,6 +9488,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -9580,6 +9774,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -9744,6 +9942,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -10074,6 +10276,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -10202,6 +10408,96 @@ Transform:
   - {fileID: 1746043668}
   m_Father: {fileID: 1223500927}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &493926500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1198865468}
+    m_Modifications:
+    - target: {fileID: 839733610, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: button
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 839733611, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: touch
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 839733612, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: axis
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.6400001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6400001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6400001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02720008
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.19800001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2648013
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5427895103594415548, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: m_Name
+      value: RobotHand (R) (OVR)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5505708941097759029, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+      propertyPath: follow
+      value: 
+      objectReference: {fileID: 840312525}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+--- !u!4 &493926501 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2532845903332214481, guid: 1bc09401dbb05c04a8c5776661867cf2, type: 3}
+  m_PrefabInstance: {fileID: 493926500}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &507276682
 GameObject:
   m_ObjectHideFlags: 0
@@ -10358,6 +10654,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -10623,6 +10923,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -10826,7 +11130,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &567914619
 Transform:
   m_ObjectHideFlags: 0
@@ -11013,6 +11317,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -11400,6 +11708,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -11560,6 +11872,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -11849,6 +12165,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -12062,6 +12382,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -12264,6 +12588,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -12380,6 +12708,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -13063,6 +13395,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -13255,6 +13591,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &751117155
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13481,6 +13818,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -13759,6 +14100,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -14376,6 +14721,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -46241,6 +46590,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -46476,6 +46829,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -46688,6 +47045,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -46933,6 +47294,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &828478705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47298,6 +47660,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -47543,6 +47909,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -47731,6 +48101,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -48061,6 +48435,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -48216,6 +48594,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -48546,6 +48928,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -48794,6 +49180,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -48996,6 +49386,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -49197,6 +49591,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -49466,6 +49864,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -49679,6 +50081,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -49888,6 +50294,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -50118,6 +50528,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -50319,6 +50733,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -50668,6 +51086,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -50997,6 +51419,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -51242,6 +51668,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -51426,6 +51856,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -51733,6 +52167,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -51997,6 +52435,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -52209,6 +52651,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -53007,6 +53453,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -53567,6 +54017,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -53816,6 +54270,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -54049,6 +54507,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &1142208315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54339,6 +54798,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -54467,6 +54930,76 @@ Transform:
   - {fileID: 1525633542}
   m_Father: {fileID: 1786177792}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1169805484
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1699017833}
+    m_Modifications:
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685472768745978638, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_Name
+      value: RobotHand (No Controller)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685472768745978638, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201711370266972039, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: left
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 386242486c5972145be957989b61c7df, type: 3}
+--- !u!4 &1169805485 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+  m_PrefabInstance: {fileID: 1169805484}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1170797930
 GameObject:
   m_ObjectHideFlags: 0
@@ -54614,6 +55147,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -54828,6 +55365,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -55013,6 +55554,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -55177,6 +55722,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -55507,6 +56056,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -55730,6 +56283,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -55959,6 +56516,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -56183,6 +56744,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -56404,6 +56969,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -56550,7 +57119,7 @@ Transform:
   m_GameObject: {fileID: 1223500926}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.07305991, z: -0, w: 0.9973276}
-  m_LocalPosition: {x: -0.01438203, y: -0.6057146, z: -0.43110555}
+  m_LocalPosition: {x: -0.04, y: -0.6057146, z: -0.58}
   m_LocalScale: {x: 2.2222235, y: 1.2698413, z: 2.2222235}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -57035,7 +57604,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 0}
-  m_CullingMode: 1
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
@@ -57333,6 +57902,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -57546,6 +58119,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -57758,6 +58335,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -58037,6 +58618,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -58250,6 +58835,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -58495,6 +59084,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -58751,6 +59344,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -58971,6 +59568,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -59200,6 +59801,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -59490,6 +60095,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -59650,6 +60259,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -59895,6 +60508,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -60107,6 +60724,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -60328,6 +60949,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -60558,6 +61183,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -60778,6 +61407,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -61187,6 +61820,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!65 &1373195076
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61363,6 +61997,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -61664,6 +62302,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -61914,6 +62556,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -62140,6 +62786,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -62445,6 +63095,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -62736,6 +63390,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -62944,6 +63602,84 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.00014175475, y: -0.07450375, z: 0.014952347}
     m_Extent: {x: 0.15030651, y: 0.2015467, z: 0.14204334}
   m_DirtyAABB: 0
+--- !u!1001 &1487857447
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 840312525}
+    m_Modifications:
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.79999995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.79999995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685472768745978638, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_Name
+      value: RobotHand (No Controller)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8685472768745978638, guid: 386242486c5972145be957989b61c7df, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 386242486c5972145be957989b61c7df, type: 3}
+--- !u!4 &1487857448 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1224213067510249571, guid: 386242486c5972145be957989b61c7df, type: 3}
+  m_PrefabInstance: {fileID: 1487857447}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1495912931
 GameObject:
   m_ObjectHideFlags: 0
@@ -63115,6 +63851,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -63329,6 +64069,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -63530,6 +64274,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -63806,6 +64554,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &1527335525
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64109,6 +64858,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -64267,6 +65020,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -64432,6 +65189,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: trolleyController
       value: 
@@ -64770,6 +65531,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -65097,6 +65862,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -65298,6 +66067,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -65531,6 +66304,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -65809,6 +66586,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -66032,6 +66813,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -66437,6 +67222,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -66681,6 +67470,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &1671979871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66807,7 +67597,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1672299957
 Transform:
   m_ObjectHideFlags: 0
@@ -66995,6 +67785,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -67292,6 +68086,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &1694461863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67518,6 +68313,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -67906,6 +68705,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -68098,6 +68901,7 @@ MonoBehaviour:
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
+  SaveDataObject: {fileID: 813777021}
 --- !u!114 &1718774549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68411,6 +69215,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -68635,6 +69443,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -68858,6 +69670,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -69193,6 +70009,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -69405,6 +70225,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -69682,6 +70506,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -69894,6 +70722,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -70108,6 +70940,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -70320,6 +71156,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -70608,6 +71448,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -70820,6 +71664,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -71066,6 +71914,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -71202,7 +72054,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1888247306}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0b759d06398d1384bb254a1a10ab6e7d, type: 3}
   m_Name: 
@@ -72414,7 +73266,7 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -72451,8 +73303,8 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
-  m_UpdateWhenOffscreen: 0
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 1
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: 2988033852023935963, guid: 725b592666e09c7469e7fdc49d330c82, type: 3}
   m_Bones:
@@ -72881,6 +73733,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -73279,6 +74135,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -73492,6 +74352,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -73704,6 +74568,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -74186,6 +75054,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -74398,6 +75270,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -74643,6 +75519,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -74827,6 +75707,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -75088,6 +75972,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -75357,6 +76245,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -75600,6 +76492,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -75866,6 +76762,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: trolleyController
       value: 
@@ -76138,6 +77038,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -76422,6 +77326,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -76689,6 +77597,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -76971,6 +77883,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -77215,6 +78131,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
       objectReference: {fileID: 994690680}
@@ -77427,6 +78347,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 
@@ -77710,6 +78634,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: SaveDataObject
+      value: 
+      objectReference: {fileID: 813777021}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: trolleyController
       value: 

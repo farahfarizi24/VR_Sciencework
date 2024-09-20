@@ -41,7 +41,7 @@ public class DataSaving : MonoBehaviour
             gameData.ParticipantID = uid;
             theDate = System.DateTime.Now.ToString("MM/dd/yyyy");
 
-            saveFile = Application.persistentDataPath + "/gamedata.csv";
+            saveFile = Application.persistentDataPath + "/Experimentgamedata.csv";
             Debug.Log("File is saved at:" + saveFile);
             sw = File.AppendText(saveFile);
             /*sw.Write("ID " + gameData.ParticipantID+";");
@@ -62,6 +62,28 @@ public class DataSaving : MonoBehaviour
     {
         sw = File.AppendText(saveFile);
         sw.WriteLine("Deleted "+ObjectName + ";");
+        getTime();
+
+        sw.WriteLine(theTime + ";");
+        sw.Close();
+
+    }
+
+    public void OnCerealGrabbed(string ObjectName)
+    {
+        sw = File.AppendText(saveFile);
+        sw.WriteLine("Grabbed " + ObjectName + ";");
+        getTime();
+
+        sw.WriteLine(theTime + ";");
+        sw.Close();
+    }
+
+    public void OnCerealLetGo(string ObjectName) 
+    {
+
+        sw = File.AppendText(saveFile);
+        sw.WriteLine("Let go " + ObjectName + ";");
         getTime();
 
         sw.WriteLine(theTime + ";");
