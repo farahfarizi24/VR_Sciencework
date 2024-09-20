@@ -26,7 +26,7 @@ public class IKTargetFollowVRRig : MonoBehaviour
     public float headBodyYawOffset;
 
     // Update is called once per frame
-    void LateUpdate()
+    void Update()
     {
         transform.position = head.ikTarget.position + headBodyPositionOffset;
         float yaw = head.vrTarget.eulerAngles.y;
