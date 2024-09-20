@@ -89,9 +89,10 @@ public class MakeKinematic : MonoBehaviour
                 }
             }
         }
-        transform.position = startPos;
-        transform.rotation = startRot;
-        rb.constraints = RigidbodyConstraints.FreezeAll;
-        rb.isKinematic = true;
+       // transform.position = startPos;
+       // transform.rotation = startRot;
+       // rb.constraints = RigidbodyConstraints.FreezeAll;
+        rb.useGravity = true;
+       // rb.isKinematic = true;
     }
 }
