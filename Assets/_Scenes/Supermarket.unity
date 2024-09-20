@@ -263,6 +263,10 @@ PrefabInstance:
       value: TinyTeddy
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -1088,6 +1092,10 @@ PrefabInstance:
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -1392,6 +1400,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -1655,6 +1667,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Cheerios
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -1959,6 +1975,10 @@ PrefabInstance:
       propertyPath: itemName
       value: FruityBites
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -2571,11 +2591,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 224865371}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -2755,11 +2779,6 @@ PrefabInstance:
 --- !u!4 &224865370 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1174404865406945214, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 224865369}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &224865371 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
   m_PrefabInstance: {fileID: 224865369}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &231337972
@@ -4407,6 +4426,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -4740,6 +4763,10 @@ PrefabInstance:
       value: SultanaBran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -4969,6 +4996,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -5178,6 +5209,10 @@ PrefabInstance:
       value: RiceBubbles
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -5383,6 +5418,10 @@ PrefabInstance:
       propertyPath: itemName
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -5615,6 +5654,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -5852,6 +5895,10 @@ PrefabInstance:
       propertyPath: itemName
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -6278,6 +6325,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -6552,6 +6603,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -6739,6 +6794,10 @@ PrefabInstance:
       propertyPath: itemName
       value: NutriGran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -6956,6 +7015,10 @@ PrefabInstance:
       propertyPath: itemName
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -7193,6 +7256,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -7699,6 +7766,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -7896,6 +7967,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -8308,6 +8383,10 @@ PrefabInstance:
       value: FruityBites
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -8524,6 +8603,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -8749,6 +8832,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -9207,6 +9294,10 @@ PrefabInstance:
       value: BrightStart
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -9485,6 +9576,10 @@ PrefabInstance:
       value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -9648,11 +9743,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 481217361}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -9850,11 +9949,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &481217361 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 481217357}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &481217362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9975,6 +10069,10 @@ PrefabInstance:
       propertyPath: itemName
       value: BrightStart
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -10257,6 +10355,10 @@ PrefabInstance:
       value: SultanaBran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -10517,6 +10619,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -10650,6 +10756,11 @@ Transform:
   - {fileID: 133981143}
   m_Father: {fileID: 8712685}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &539354516 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
+  m_PrefabInstance: {fileID: 994690678}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &547708920
 GameObject:
   m_ObjectHideFlags: 0
@@ -10898,6 +11009,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Weeties
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -11281,6 +11396,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -11437,6 +11556,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -11722,6 +11845,10 @@ PrefabInstance:
       value: FruityBites
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -11931,6 +12058,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -12129,6 +12260,10 @@ PrefabInstance:
       value: CocoPops
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -12244,11 +12379,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 666563494}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -12446,11 +12585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &666563494 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 666563490}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &666563495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12925,6 +13059,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -13117,7 +13255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -13339,6 +13477,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -13613,6 +13755,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -14226,6 +14372,10 @@ PrefabInstance:
       propertyPath: itemName
       value: ClusterPuffs
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -46087,6 +46237,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -46318,6 +46472,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -46526,6 +46684,10 @@ PrefabInstance:
       propertyPath: itemName
       value: FruityBites
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -46771,7 +46933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -47132,6 +47294,10 @@ PrefabInstance:
       value: Weeties
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -47373,6 +47539,10 @@ PrefabInstance:
       value: Weeties
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -47560,11 +47730,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 898258886}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -47762,11 +47936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &898258886 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 898258882}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &898258887
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47887,6 +48056,10 @@ PrefabInstance:
       propertyPath: itemName
       value: NutriGran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -48042,11 +48215,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 918434913}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -48244,11 +48421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &918434913 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 918434909}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &918434914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48369,6 +48541,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CiniMinis
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -48614,6 +48790,10 @@ PrefabInstance:
       value: CocoPops
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -48812,6 +48992,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -49009,6 +49193,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Nesquick
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -49274,6 +49462,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -49483,6 +49675,10 @@ PrefabInstance:
       value: RiceBubbles
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -49688,6 +49884,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -49914,6 +50114,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -50111,6 +50315,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -50337,7 +50545,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 895299041738710968, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3497245797197154976, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_Convex
@@ -50349,47 +50557,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3497245797197154978, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5676711681336475730, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5676711681336475741, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5676711681336475742, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Size.x
-      value: 0.82694244
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Size.y
-      value: 0.5388417
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Size.z
-      value: 0.09279862
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Center.x
-      value: 0.052133378
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Center.y
-      value: -0.04784703
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
-      propertyPath: m_Center.z
-      value: 0.061923765
-      objectReference: {fileID: 0}
-    - target: {fileID: 5676711683002520139, guid: 1b17d118dd4d1104cb1f40d9740352e3, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -50422,7 +50606,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 994690678}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 165771266}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71e49fafc7370434c9a456308055a873, type: 3}
   m_Name: 
@@ -50482,11 +50666,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 997395664}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -50684,11 +50872,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &997395664 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 997395660}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &997395665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50809,6 +50992,10 @@ PrefabInstance:
       propertyPath: itemName
       value: BrightStart
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -51051,6 +51238,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -51231,6 +51422,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -51534,6 +51729,10 @@ PrefabInstance:
       value: SultanaBran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -51794,6 +51993,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -52002,6 +52205,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -52796,6 +53003,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -53352,6 +53563,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -53597,6 +53812,10 @@ PrefabInstance:
       value: Weeties
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -53830,7 +54049,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -54116,6 +54335,10 @@ PrefabInstance:
       value: FruityBites
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -54388,6 +54611,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -54597,6 +54824,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -54778,6 +55009,10 @@ PrefabInstance:
       value: Cereal
       objectReference: {fileID: 0}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -54941,11 +55176,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 1181345487}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -55143,11 +55382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &1181345487 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 1181345483}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1181345488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55268,6 +55502,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Weeties
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -55488,6 +55726,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -55713,6 +55955,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -55933,6 +56179,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -56149,6 +56399,10 @@ PrefabInstance:
       propertyPath: itemName
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -57075,6 +57329,10 @@ PrefabInstance:
       value: Milo
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -57284,6 +57542,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -57492,6 +57754,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Milo
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -57767,6 +58033,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -57976,6 +58246,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -58217,6 +58491,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -58469,6 +58747,10 @@ PrefabInstance:
       value: BrightStart
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -58685,6 +58967,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -58910,6 +59196,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Milo
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -59196,6 +59486,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -59352,6 +59646,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -59593,6 +59891,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -59801,6 +60103,10 @@ PrefabInstance:
       propertyPath: itemName
       value: FruityBites
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -60018,6 +60324,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -60244,6 +60554,10 @@ PrefabInstance:
       value: NutriGran
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -60460,6 +60774,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -60869,7 +61187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -61041,6 +61359,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TinyTeddy
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -61338,6 +61660,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -61584,6 +61910,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -61806,6 +62136,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -62107,6 +62441,10 @@ PrefabInstance:
       value: TinyTeddy
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -62393,6 +62731,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CornFlakes
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -62770,6 +63112,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -62979,6 +63325,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -63176,6 +63526,10 @@ PrefabInstance:
       propertyPath: itemName
       value: FruityBites
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -63452,7 +63806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -63751,6 +64105,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -63905,6 +64263,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -64069,11 +64431,15 @@ PrefabInstance:
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: safeZone
       value: 
-      objectReference: {fileID: 1554016299}
+      objectReference: {fileID: 539354516}
     - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1174404865406945203, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
+      propertyPath: trolleyController
+      value: 
+      objectReference: {fileID: 994690680}
     - target: {fileID: 1174404865406945204, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
       propertyPath: onGrab.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -64271,11 +64637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &1554016299 stripped
-BoxCollider:
-  m_CorrespondingSourceObject: {fileID: 1174404865406945202, guid: b3f9c9830902a6840bd2ea0ef4476ff1, type: 3}
-  m_PrefabInstance: {fileID: 1554016295}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1554016300
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64404,6 +64765,10 @@ PrefabInstance:
       propertyPath: itemName
       value: SultanaBran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -64728,6 +65093,10 @@ PrefabInstance:
       value: Weeties
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -64925,6 +65294,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -65154,6 +65527,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Cheerios
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -65428,6 +65805,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -65647,6 +66028,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Weeties
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -66048,6 +66433,10 @@ PrefabInstance:
       value: TinyTeddy
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -66292,7 +66681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -66603,6 +66992,10 @@ PrefabInstance:
       value: BrightStart
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -66899,7 +67292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -67121,6 +67514,10 @@ PrefabInstance:
       propertyPath: itemName
       value: NutriGran
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -67505,6 +67902,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 5629668387735765223, guid: d0ff82bd25c094b4b9e7e8cc3b78aa8b, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -67697,7 +68098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de1ed184f0f9b414090df90c4f183df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  safeZone: {fileID: 0}
+  safeZone: {fileID: 539354516}
   trolleyController: {fileID: 994690680}
   isCereal: 1
   itemName: WeetBix
@@ -68006,6 +68407,10 @@ PrefabInstance:
       value: CornFlakes
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -68226,6 +68631,10 @@ PrefabInstance:
       value: FruityBites
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -68445,6 +68854,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TinyTeddy
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -68776,6 +69189,10 @@ PrefabInstance:
       value: BrightStart
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -68984,6 +69401,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Cheerios
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -69257,6 +69678,10 @@ PrefabInstance:
       value: TinyTeddy
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -69465,6 +69890,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Cheerios
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -69675,6 +70104,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -69883,6 +70316,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TinyTeddy
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -70167,6 +70604,10 @@ PrefabInstance:
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -70375,6 +70816,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -70616,6 +71061,10 @@ PrefabInstance:
       propertyPath: itemName
       value: BrightStart
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -72428,6 +72877,10 @@ PrefabInstance:
       value: Nesquick
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -72822,6 +73275,10 @@ PrefabInstance:
       value: BrightStart
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -73031,6 +73488,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -73239,6 +73700,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CocoPops
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -73717,6 +74182,10 @@ PrefabInstance:
       value: ClusterPuffs
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -73925,6 +74394,10 @@ PrefabInstance:
       propertyPath: itemName
       value: ClusterPuffs
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -74166,6 +74639,10 @@ PrefabInstance:
       value: Cheerios
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -74346,6 +74823,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -74603,6 +75084,10 @@ PrefabInstance:
       propertyPath: itemName
       value: Weeties
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -74868,6 +75353,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -75107,6 +75596,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -75369,6 +75862,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Cereal
       objectReference: {fileID: 0}
+    - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2785438355089940150, guid: 8d8525c5340cdcf4ca7231924187d138, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -75637,6 +76134,10 @@ PrefabInstance:
       propertyPath: itemName
       value: CiniMinis
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -75917,6 +76418,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -76180,6 +76685,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -76458,6 +76967,10 @@ PrefabInstance:
       value: CiniMinis
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -76698,6 +77211,10 @@ PrefabInstance:
       value: TheNoNastiesProject
       objectReference: {fileID: 0}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -76906,6 +77423,10 @@ PrefabInstance:
       propertyPath: itemName
       value: RiceBubbles
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -77185,6 +77706,10 @@ PrefabInstance:
       propertyPath: itemName
       value: TinyTeddy
       objectReference: {fileID: 0}
+    - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
+      propertyPath: safeZone
+      value: 
+      objectReference: {fileID: 539354516}
     - target: {fileID: 2735507903457453635, guid: 5d87168da58c6894fa55da13001a3a15, type: 3}
       propertyPath: m_Enabled
       value: 1
