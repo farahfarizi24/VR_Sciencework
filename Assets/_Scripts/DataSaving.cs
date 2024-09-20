@@ -41,27 +41,44 @@ public class DataSaving : MonoBehaviour
             gameData.ParticipantID = uid;
             theDate = System.DateTime.Now.ToString("MM/dd/yyyy");
 
-            saveFile = Application.persistentDataPath + "/" + uid + "gamedata.csv";
+            saveFile = Application.persistentDataPath + "/gamedata.csv";
             Debug.Log("File is saved at:" + saveFile);
             sw = File.AppendText(saveFile);
-           sw.Write(gameData.ParticipantID+";");
+            /*sw.Write("ID " + gameData.ParticipantID+";");
             gameData.Date = theDate;
-            sw.Write(gameData.Date+";");
+            sw.Write(gameData.Date+";");*/
             sw.Close();
         }
         sw = File.AppendText(saveFile);
+
+        sw.WriteLine("ID " + gameData.ParticipantID + ";");
+        gameData.Date = theDate;
+        sw.WriteLine(gameData.Date + ";");
         //sw.Write("\n" + user_input.text);
         sw.Close();
+    }
+
+    public void DeletedObject(string ObjectName)
+    {
+        sw = File.AppendText(saveFile);
+        sw.WriteLine("Deleted "+ObjectName + ";");
+        getTime();
+
+        sw.WriteLine(theTime + ";");
+        sw.Close();
+
     }
 
     public void UpdateFinalData(string FirstAnswer, string SecondAnswer)
     {
         sw = File.AppendText(saveFile);
-        sw.Write(FirstAnswer + ";");
-        sw.Write(SecondAnswer + ";"); 
+        sw.WriteLine("Final answer: ");
+
+        sw.WriteLine(FirstAnswer + ";");
+        sw.WriteLine(SecondAnswer + ";"); 
         getTime();
         gameData.checkOutTime = theTime;
-        sw.Write(gameData.checkOutTime + ";");
+        sw.WriteLine(gameData.checkOutTime + ";");
         sw.Close();
     }
 
