@@ -33,7 +33,7 @@ public class MakeKinematic : MonoBehaviour
     {
         rb = this.GetComponent<Rigidbody>();
         rb.isKinematic = true;
-        rb.constraints = RigidbodyConstraints.FreezeAll;
+        //rb.constraints = RigidbodyConstraints.FreezeAll;
     }
 
 
