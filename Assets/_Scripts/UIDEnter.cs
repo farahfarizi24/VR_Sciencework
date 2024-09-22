@@ -21,8 +21,10 @@ public class UIDEnter : MonoBehaviour
         //Upper button to scroll up
         //Lower button to scroll down
         //Trigger button to enter
-        bool Abutton = OVRInput.GetDown(OVRInput.Button.One);
-        bool Bbutton = OVRInput.GetDown(OVRInput.Button.Two);
+        bool Abutton = OVRInput.GetDown(OVRInput.RawButton.A);
+        bool Bbutton = OVRInput.GetDown(OVRInput.RawButton.B);
+        bool Ybutton = OVRInput.GetDown(OVRInput.RawButton.Y);
+        bool Xbutton = OVRInput.GetDown(OVRInput.RawButton.X);
         bool TriggerButton = OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger);
         if (Bbutton)
         {
@@ -36,6 +38,19 @@ public class UIDEnter : MonoBehaviour
             //update TMPRo
             userIDCount--;
             User_ID.text = "UID:" + userIDCount.ToString();
+        }
+
+        if (Ybutton)
+        {
+            userIDCount += 10;
+            User_ID.text = "UID:" + userIDCount.ToString();
+
+        }
+        if (Xbutton)
+        { 
+            userIDCount -= 10;
+            User_ID.text = "UID:" + userIDCount.ToString();
+
         }
         if (TriggerButton)
         {
