@@ -44,8 +44,7 @@ public class OVRPlayerController : MonoBehaviour
 
     /// <summary>
     /// The force applied to the character when jumping.
-    /// </summary>
-    public float JumpForce = 0.3f;
+
 
     /// <summary>
     /// The rate of rotation when using a gamepad.
@@ -156,7 +155,7 @@ public class OVRPlayerController : MonoBehaviour
     private float FallSpeed = 0.0f;
     private OVRPose? InitialPose;
     public float InitialYRotation { get; private set; }
-    private float MoveScaleMultiplier = 1.0f;
+    public float MoveScaleMultiplier = 0.5f;
     private float RotationScaleMultiplier = 1.0f;
 
     // It is rare to want to use mouse movement in VR, so ignore the mouse by default.
@@ -542,16 +541,8 @@ public class OVRPlayerController : MonoBehaviour
     /// <summary>
     /// Jump! Must be enabled manually.
     /// </summary>
-    public bool Jump()
-    {
-        if (!Controller.isGrounded)
-            return false;
+ 
 
-      //
-      //MoveThrottle += new Vector3(0, transform.lossyScale.y * JumpForce, 0);
-
-        return true;
-    }
 
     /// <summary>
     /// Stop this instance.

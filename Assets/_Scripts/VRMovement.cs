@@ -5,11 +5,11 @@ using UnityEngine;
 public class VRMovement : MonoBehaviour
 
 {
-    public float speed = 3.0f;
+    public float speed = 1.0f;
 
     public float gravity = 9.8f;
 
-    public float jumpSpeed = 5.0f;  // Speed at which the character will jump
+    public float jumpSpeed = 0.0f;  // Speed at which the character will jump
 
     private CharacterController characterController;
 
