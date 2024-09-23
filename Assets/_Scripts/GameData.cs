@@ -13,9 +13,11 @@ public class GameData
     public string startingTime;
     public string OnObjectPickUpTime;
     public string OnObjectPutInBasketTime;
-    public string ObjectID;
+    public string ObjectName;
     public string ObjectInBasketID;
     public string checkOutTime;
+    public bool isFirstAnswer;
+    public bool isLastAnswer;
 // Public highScore
 //public int highScore;
     

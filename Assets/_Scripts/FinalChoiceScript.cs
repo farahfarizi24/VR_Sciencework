@@ -17,14 +17,18 @@ public class FinalChoiceScript : MonoBehaviour
             {
                 firstAnswer = "1+" + collision.gameObject.name;
                 answerIndex++;
+                dataManager.GetComponent<DataSaving>().ToggleFirstAnswer(true);
                 Destroy(collision.gameObject);
+
             }
             else
             {
                 secondAnswer = "2+" + collision.gameObject.name;
                 answerIndex++;
+                dataManager.GetComponent<DataSaving>().ToggleLastAnswer(true);
                 Destroy(collision.gameObject);
-                dataManager.GetComponent<DataSaving>().UpdateFinalData(firstAnswer,secondAnswer);
+
+
             }
         }
        

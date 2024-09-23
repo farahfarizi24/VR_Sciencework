@@ -20,11 +20,21 @@ public class DataSaving : MonoBehaviour
     void Awake()
     {
 
-       
 
+        saveFile = Application.persistentDataPath + "/NewFormatExperimentgamedata.csv";
+        Debug.Log("File is saved at:" + saveFile);
 
+        if (!File.Exists(saveFile))
+        {
 
-    }
+            sw = File.AppendText(saveFile);
+
+            sw.WriteLine("ID,"+ "Date","Object,"+ "Time Grab,"+ "Time Released,"+ "First Purchase,"+ "Second Purchase,");
+            sw.Close();
+
+        }
+
+        }
     public void GetUserID(){
 
         theDate = System.DateTime.Now.ToString("MM/dd/yyyy");
@@ -36,26 +46,23 @@ public class DataSaving : MonoBehaviour
     }
     public void UpdateStartingData(int uid)
     {
-        if (!File.Exists(saveFile))
-        {
+        //store the ID and date first and write
+        gameData.isFirstAnswer = false;
+        gameData.isLastAnswer = false;
             gameData.ParticipantID = uid;
-            theDate = System.DateTime.Now.ToString("MM/dd/yyyy");
+            gameData.Date = System.DateTime.Now.ToString("MM/dd/yyyy");
 
-            saveFile = Application.persistentDataPath + "/23SeptExperimentgamedata.csv";
-            Debug.Log("File is saved at:" + saveFile);
-            sw = File.AppendText(saveFile);
-            /*sw.Write("ID " + gameData.ParticipantID+";");
-            gameData.Date = theDate;
-            sw.Write(gameData.Date+";");*/
-            sw.Close();
-        }
+           
+
+      /*
         sw = File.AppendText(saveFile);
+
 
         sw.WriteLine("ID " + gameData.ParticipantID + ";");
         gameData.Date = theDate;
         sw.WriteLine(gameData.Date + ";");
         //sw.Write("\n" + user_input.text);
-        sw.Close();
+        sw.Close();*/
     }
 
     public void DeletedObject(string ObjectName)
@@ -72,10 +79,11 @@ public class DataSaving : MonoBehaviour
     public void OnCerealGrabbed(string ObjectName)
     {
         sw = File.AppendText(saveFile);
-        sw.WriteLine("Grabbed " + ObjectName + ";");
+        gameData.ObjectName = ObjectName;
         getTime();
-
-        sw.WriteLine(theTime + ";");
+        sw.Write(gameData.ParticipantID + "," + gameData.Date + "," + gameData.ObjectName + "," + theTime + ",");
+   
+     
         sw.Close();
     }
 
@@ -83,12 +91,35 @@ public class DataSaving : MonoBehaviour
     {
 
         sw = File.AppendText(saveFile);
-        sw.WriteLine("Let go " + ObjectName + ";");
+       // sw.WriteLine(ObjectName + ",");
         getTime();
 
-        sw.WriteLine(theTime + ";");
+        sw.Write(theTime + ",");
+        //Do an IEnumerator to see if cereal was checked out or not
         sw.Close();
+        StartCoroutine(CountdownForCashier());
 
+    }
+    //coroutine to see if cereal is first answer or not
+    IEnumerator CountdownForCashier()
+    {
+        yield return new WaitForSeconds(1.5f);
+        sw = File.AppendText(saveFile);
+        sw.Write(gameData.isFirstAnswer.ToString()+","+gameData.isLastAnswer.ToString()+ "\n");
+
+        sw.Close();
+        gameData.isFirstAnswer = false;
+        gameData.isLastAnswer = false;
+    }
+
+    public void ToggleFirstAnswer(bool FA)
+    {
+        gameData.isFirstAnswer = FA;
+        
+    }
+    public void ToggleLastAnswer(bool la)
+    {
+        gameData.isLastAnswer = la;
     }
 
     public void UpdateFinalData(string FirstAnswer, string SecondAnswer)
