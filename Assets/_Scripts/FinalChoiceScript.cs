@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class FinalChoiceScript : MonoBehaviour
 {
-    public GameObject dataManager;  
+    public GameObject dataManager;
     public int answerIndex;
     public string firstAnswer;
     public string secondAnswer;
@@ -21,20 +21,23 @@ public class FinalChoiceScript : MonoBehaviour
                 Destroy(collision.gameObject);
 
             }
-            else
+            else if (answerIndex == 1)
             {
-                secondAnswer = "2+" + collision.gameObject.name;
-                answerIndex++;
-                dataManager.GetComponent<DataSaving>().ToggleLastAnswer(true);
-                Destroy(collision.gameObject);
+                {
+                    secondAnswer = "2+" + collision.gameObject.name;
+                    answerIndex++;
+                    dataManager.GetComponent<DataSaving>().ToggleLastAnswer(true);
+                    Destroy(collision.gameObject);
 
+
+                }
 
             }
+
+
         }
-       
-     
+
+
+
     }
-
-
-
 }

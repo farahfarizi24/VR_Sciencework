@@ -22,7 +22,7 @@ public class AvatarSelector : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        bool RightTriggerButton = OVRInput.GetDown(OVRInput.Button.SecondaryHandTrigger);
+        bool RightTriggerButton = OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger, OVRInput.Controller.RTouch);
 
         if (RightTriggerButton)
         {

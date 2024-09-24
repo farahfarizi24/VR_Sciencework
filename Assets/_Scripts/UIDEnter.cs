@@ -25,7 +25,8 @@ public class UIDEnter : MonoBehaviour
         bool Bbutton = OVRInput.GetDown(OVRInput.RawButton.B);
         bool Ybutton = OVRInput.GetDown(OVRInput.RawButton.Y);
         bool Xbutton = OVRInput.GetDown(OVRInput.RawButton.X);
-        bool TriggerButton = OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger);
+        bool TriggerButton = OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger,
+             OVRInput.Controller.LTouch);
         if (Bbutton)
         {
             //update TMPRo
