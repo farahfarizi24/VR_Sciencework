@@ -60,7 +60,7 @@ public class CharacterCameraConstraint : MonoBehaviour
     [Tooltip("Maximum height that the character capsule can grow to.  To disable, set to capsule's height.")]
     public float MaximumHeight;
 
-    private CapsuleCollider _character;
+    public CapsuleCollider _character;
     private SimpleCapsuleWithStickMovement _simplePlayerController;
 
     CharacterCameraConstraint()
