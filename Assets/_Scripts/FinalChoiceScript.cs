@@ -6,7 +6,7 @@ using UnityEngine;
 public class FinalChoiceScript : MonoBehaviour
 {
     public GameObject dataManager;
-    public int answerIndex;
+    public int answerIndex=0;
     public string firstAnswer;
     public string secondAnswer;
     private void OnCollisionEnter(Collision collision)
@@ -16,8 +16,9 @@ public class FinalChoiceScript : MonoBehaviour
             if (answerIndex == 0)
             {
                 firstAnswer = "1+" + collision.gameObject.name;
-                answerIndex++;
                 dataManager.GetComponent<DataSaving>().ToggleFirstAnswer(true);
+                answerIndex++;
+
                 Destroy(collision.gameObject);
 
             }
@@ -25,8 +26,9 @@ public class FinalChoiceScript : MonoBehaviour
             {
                 {
                     secondAnswer = "2+" + collision.gameObject.name;
-                    answerIndex++;
                     dataManager.GetComponent<DataSaving>().ToggleLastAnswer(true);
+                    answerIndex++;
+
                     Destroy(collision.gameObject);
 
 

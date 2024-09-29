@@ -21,7 +21,7 @@ public class DataSaving : MonoBehaviour
     {
 
 
-        saveFile = Application.persistentDataPath + "/Ver2gamedata.csv";
+        saveFile = Application.persistentDataPath + "/Ver3gamedata.csv";
         Debug.Log("File is saved at:" + saveFile);
 
         if (!File.Exists(saveFile))
@@ -29,7 +29,7 @@ public class DataSaving : MonoBehaviour
 
             sw = File.AppendText(saveFile);
 
-            sw.WriteLine("ID,"+ "Date","Object,"+ "Time Grab,"+ "Time Released,"+ "First Purchase,"+ "Second Purchase,");
+            sw.WriteLine("ID,"+ "Date,"+"Object,"+ "Time Grab,"+ "Time Released,"+ "First Purchase,"+ "Second Purchase,");
             sw.Close();
 
         }
@@ -70,7 +70,7 @@ public class DataSaving : MonoBehaviour
         sw = File.AppendText(saveFile);
         sw.WriteLine("Deleted "+ObjectName + ";");
         getTime();
-
+        gameData.OnObjectPickUpTime = theTime;
         sw.WriteLine(theTime + ";");
         sw.Close();
 
@@ -80,6 +80,8 @@ public class DataSaving : MonoBehaviour
     {
         sw = File.AppendText(saveFile);
         gameData.ObjectName = ObjectName;
+        gameData.OnObjectPickUpTime = theTime;
+
         getTime();
         sw.Write(gameData.ParticipantID + "," + gameData.Date + "," + gameData.ObjectName + "," + theTime + ",");
    
@@ -103,7 +105,7 @@ public class DataSaving : MonoBehaviour
     //coroutine to see if cereal is first answer or not
     IEnumerator CountdownForCashier()
     {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(1f);
         sw = File.AppendText(saveFile);
         sw.Write(gameData.isFirstAnswer.ToString()+","+gameData.isLastAnswer.ToString()+ "\n");
 
