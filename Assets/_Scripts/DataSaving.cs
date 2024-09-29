@@ -21,7 +21,7 @@ public class DataSaving : MonoBehaviour
     {
 
 
-        saveFile = Application.persistentDataPath + "/Ver3gamedata.csv";
+        saveFile = Application.persistentDataPath + "/Ver4gamedata.csv";
         Debug.Log("File is saved at:" + saveFile);
 
         if (!File.Exists(saveFile))
@@ -80,10 +80,11 @@ public class DataSaving : MonoBehaviour
     {
         sw = File.AppendText(saveFile);
         gameData.ObjectName = ObjectName;
+        getTime();
         gameData.OnObjectPickUpTime = theTime;
 
-        getTime();
-        sw.Write(gameData.ParticipantID + "," + gameData.Date + "," + gameData.ObjectName + "," + theTime + ",");
+       
+       // sw.Write(gameData.ParticipantID + "," + gameData.Date + "," + gameData.ObjectName + "," + theTime + ",");
    
      
         sw.Close();
@@ -96,11 +97,10 @@ public class DataSaving : MonoBehaviour
        // sw.WriteLine(ObjectName + ",");
         getTime();
 
-        sw.Write(theTime + ",");
+       // sw.Write(theTime + ",");
         //Do an IEnumerator to see if cereal was checked out or not
         sw.Close();
-        StartCoroutine(CountdownForCashier());
-
+        saveLetGo();
     }
     //coroutine to see if cereal is first answer or not
     IEnumerator CountdownForCashier()
@@ -108,6 +108,20 @@ public class DataSaving : MonoBehaviour
         yield return new WaitForSeconds(1f);
         sw = File.AppendText(saveFile);
         sw.Write(gameData.isFirstAnswer.ToString()+","+gameData.isLastAnswer.ToString()+ "\n");
+
+        sw.Close();
+        gameData.isFirstAnswer = false;
+        gameData.isLastAnswer = false;
+    }
+
+    public void saveLetGo()
+    {
+        sw = File.AppendText(saveFile);
+        getTime();
+
+        sw.Write(gameData.ParticipantID + "," + gameData.Date + "," + gameData.ObjectName + "," + gameData.OnObjectPickUpTime + "," + theTime+ ",");
+
+        sw.Write(gameData.isFirstAnswer.ToString() + "," + gameData.isLastAnswer.ToString() + "\n");
 
         sw.Close();
         gameData.isFirstAnswer = false;

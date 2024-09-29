@@ -7,12 +7,14 @@ public class MakeKinematic : MonoBehaviour
 {
     public BoxCollider safeZone = null;
     public TrolleyController trolleyController;
+    public FinalChoiceScript ChoiceScript;
+
     public bool isCereal;
     public string itemName;
     private bool inTrolley = false;
     public GameObject SaveDataObject;
     private Rigidbody rb;
-
+    public bool HasBeenDropped=false;
     private Vector3 startPos;
     private Quaternion startRot;
     // Start is called before the first frame update
@@ -47,18 +49,7 @@ public class MakeKinematic : MonoBehaviour
 
     public void Grabbed()
     {
-        if (this.inTrolley)
-        {
-            if (this.isCereal)
-            {
-                trolleyController.cerealType = "";
-            }
-            else
-            {
-                trolleyController.drinkType = "";
-            }
-            this.inTrolley = false;
-        }
+        
         SaveDataObject.GetComponent<DataSaving>().OnCerealGrabbed(itemName);
 
         rb.isKinematic = false;
@@ -68,37 +59,36 @@ public class MakeKinematic : MonoBehaviour
 
     public void LetGo()
     {
-        if (safeZone != null)
-        {
-            if (safeZone.bounds.Contains(this.transform.position))
-            {
-                if (this.isCereal)
-                {
-                    if (trolleyController.cerealType == "")
-                    {
-                        this.inTrolley = true;
-                        trolleyController.cerealType = this.itemName;
-                        return;
-                    }
-                }
-                else
-                {
-                    if (trolleyController.drinkType == "")
-                    {
-                        this.inTrolley = true;
-                        trolleyController.drinkType = this.itemName;
-                        return;
-                    }
-                }
-            }
-        }
+        
         // transform.position = startPos;
         // transform.rotation = startRot;
         // rb.constraints = RigidbodyConstraints.FreezeAll;
-        SaveDataObject.GetComponent<DataSaving>().OnCerealLetGo(itemName);
+       // SaveDataObject.GetComponent<DataSaving>().OnCerealLetGo(itemName);
 
-       
+       HasBeenDropped = true;
         rb.useGravity = true;
        // rb.isKinematic = true;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log(collision.gameObject.name);
+        if (HasBeenDropped) 
+        {
+
+            if (collision.gameObject.tag == "Checkout")
+            {
+                ChoiceScript.HandleAnswerToggle();
+
+                SaveDataObject.GetComponent<DataSaving>().OnCerealLetGo(itemName);
+                Destroy(this.gameObject);
+            }
+            else
+            {
+                SaveDataObject.GetComponent<DataSaving>().OnCerealLetGo(itemName);
+              
+            }
+            HasBeenDropped=false;
+        }
     }
 }
